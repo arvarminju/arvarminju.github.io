@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://arvarminju.github.io/sitemap
+Sitemap: https://arvarminju.github.io/app/sitemap
+Sitemap: https://arvarminju.github.io/assets/sitemap
+Sitemap: https://arvarminju.github.io/css/sitemap
+Sitemap: https://arvarminju.github.io/includes/sitemap
+Sitemap: https://arvarminju.github.io/item/sitemap
+Sitemap: https://arvarminju.github.io/src/sitemap
